@@ -1,5 +1,6 @@
 {
   "id": "EDGG_EBG6",
+  "view": "split",
   "type": "Tabbed",
   "tabs": [
     {
@@ -117,7 +118,9 @@
             "station_id": "EDGG-DKA"
           },
           {
-            "label": [""]
+            "label": ["EDDV", "APP"],
+            "color": "clay",
+            "station_id": "EDWW-HAN"
           },
           {
             "label": [""]
@@ -177,11 +180,13 @@
           },
           {
             "label": ["EDYY", "YYD"],
-            "color": "lavender"
+            "color": "lavender",
+            "station_id": "EDYY_D"
           },
           {
             "label": ["EHAA", "ACE"],
-            "color": "mint"
+            "color": "mint",
+            "station_id": "EHAA_E"
           },
           {
             "label": [""]
