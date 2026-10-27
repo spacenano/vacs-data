@@ -943,7 +943,7 @@ id = "LFTH_APP"
 prefixes = ["LFTH"]
 frequency = "126.325"
 facility_type = "APP"
-profile_id = "LFMM-ALL"
+profile_id = "LFTH"
 default_call_sources = ["LFTH_APP"]
 
 [[positions]]
@@ -951,6 +951,7 @@ id = "LFTH_TWR"
 prefixes = ["LFTH"]
 frequency = "121.000"
 facility_type = "TWR"
+profile_id = "LFTH"
 default_call_sources = ["LFTH_TWR"]
 
 [[positions]]
@@ -958,7 +959,7 @@ id = "LFTH_GND"
 prefixes = ["LFTH"]
 frequency = "121.800"
 facility_type = "GND"
-profile_id = "LFMM-ALL"
+profile_id = "LFTH"
 default_call_sources = ["LFTH_GND"]
 
 [[positions]]
